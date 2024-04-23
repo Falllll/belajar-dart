@@ -28,6 +28,3 @@ int sum(List<int> numbers){
 }
 
 int short(int first, int last) => first + last;
-
-
-in
